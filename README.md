@@ -2,9 +2,13 @@
 
 ## Project Overview
 
-This project analyzes employee productivity and operational performance using Microsoft Excel and Power BI.
+This project focuses on analyzing employee records, attendance,
+productivity, task completion, working hours, and operational performance
+using Microsoft Excel and Power BI.
 
-The objective is to help operations teams monitor task completion, resource utilization, overdue tasks, escalations, and employee performance.
+The dashboard helps operations teams monitor employee attendance,
+productivity, resource utilization, overdue tasks, escalations, and
+team performance.
 
 ## Business Problem
 
