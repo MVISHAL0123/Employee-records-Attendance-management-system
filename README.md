@@ -1,4 +1,4 @@
-# Employee Productivity & Operations Analytics
+# Employee Records & Attendance Management System
 
 ## Project Overview
 
